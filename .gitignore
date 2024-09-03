@@ -109,3 +109,5 @@ credentials.json
 *secret*
 token.json
 .coveralls.yml
+-commit:c4361376d3a91868b41892362c71c57c7dec289e
+path: package.json:50
